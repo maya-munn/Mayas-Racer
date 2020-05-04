@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main Menu.unity
+    guid: 88817ddfc5bab0348b68ce8163dc6d22
+  - enabled: 1
+    path: Assets/Scenes/Menus/Track Selection Menu.unity
+    guid: a7715ee58a2de7143975ee274e5acce8
+  - enabled: 1
+    path: Assets/Scenes/Tracks/HillsTrack.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Menus/Settings Menu.unity
+    guid: 637f2bedf1aa07945a8cb9cc1cea0f95
+  m_configObjects: {}
